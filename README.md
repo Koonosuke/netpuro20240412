@@ -10,5 +10,5 @@
 - Linux
 - oracle＋MYSQL
 - Java
-- Javascript
+- 最近はJavascript系
   
